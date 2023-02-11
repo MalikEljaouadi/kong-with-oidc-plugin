@@ -1,1 +1,1 @@
-# kong-with-oidc-plugin
+# KONG with oidc plugin
